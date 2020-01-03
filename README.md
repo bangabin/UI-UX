@@ -28,6 +28,8 @@ https://www.figma.com/file/IZkd4woBL0vdK0bNPZsmmdgD/APOTEKER?node-id=4%3A3
 
 https://www.figma.com/file/CEFS7q1pxI95cHW4mDeBUC/photograph?node-id=0%3A1
 
+
+
 Website
 
 Pharmaceutical Management Information System Website
